@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/psrs.dir/src/arraygen.cpp.o CMakeFiles/psrs.dir/src/convert.cpp.o CMakeFiles/psrs.dir/src/main.cpp.o CMakeFiles/psrs.dir/src/sort.cpp.o CMakeFiles/psrs.dir/src/time.cpp.o  -o executable/psrs  /usr/lib/x86_64-linux-gnu/libmpichcxx.so /usr/lib/x86_64-linux-gnu/libmpich.so 
